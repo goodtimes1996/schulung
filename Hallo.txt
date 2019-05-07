@@ -1,3 +1,5 @@
 Mein Name ist christian
 Ich bin ein Löwe
+<<<<<<< HEAD
 Ich bin ein Tier 
+
