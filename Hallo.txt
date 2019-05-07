@@ -3,3 +3,4 @@ Ich bin ein Löwe
 <<<<<<< HEAD
 Ich bin ein Tier 
 
+Ich bin ein T-Rex
