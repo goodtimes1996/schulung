@@ -4,4 +4,6 @@ Ich bin ein Löwe
 Ich bin ein Tier 
 
 Ich bin ein T-Rex
+<<<<<<< HEAD
 Ich bin ein Elefant
+
